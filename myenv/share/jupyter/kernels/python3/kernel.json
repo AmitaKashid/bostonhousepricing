@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:/Users/User/Dropbox (Old)/My PC (DESKTOP-7A9DR42)/Desktop/endtoendproject/bostonhousepricing/myenv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
